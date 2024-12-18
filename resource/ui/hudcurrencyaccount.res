@@ -1,5 +1,21 @@
 "Resource/UI/HudCurrencyAccount.res"
 {
+	"CurrencyStatusPanel"
+    {
+        "ControlName"            "CCurrencyStatusPanel"
+        "fieldName"            "CurrencyStatusPanel"
+        "xpos"                "c-202"
+        "ypos"                "r180"
+        "wide"                "100"
+        "tall"                "100"
+        "xpos_minmode"            "c-202"
+        "ypos_minmode"            "r107"
+        "visible"             "1"
+        "enabled"             "1"
+
+        "PaintBackgroundType"        "2"
+    }
+	
 	"CurrencyBG"
 	{
 		"ControlName"	"ImagePanel"
