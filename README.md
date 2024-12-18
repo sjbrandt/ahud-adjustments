@@ -1,3 +1,16 @@
+# ahud adjustments
+This is an ahud fork, meaning the project is copied from the [original ahud repo](https://github.com/n0kk/ahud), and then I have added changes that I want.
+
+### Complete list of changes and their justifications in this fork:
+- Vertically centered the "Play" button on the main menu
+  - I thought it looked weird for the "Play" text to have its bottom aligned with the bottom of the TF logo to its left
+  - In this version, the "Play" text is centrally aligned around the same axis as the TF logo
+- Fixed MVM currency label being invisible
+  - In the official ahud, the mvm currency label is stuffed into the top left corner and only about 1/8th if it is visible
+  - In this version, the currency label is whole and is placed above the player's health
+
+Below is the readme from the original ahud project by [n0kk](https://github.com/n0kk).
+
 # ahud
 
 A custom HUD for Team Fortress 2.  
