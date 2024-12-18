@@ -787,7 +787,7 @@
 			"keyboardinputenabled"	"0"
 			"actionsignallevel"	"2"
 			"roundedcorners"	"1"
-			"textinsety"	"5"
+			"textinsety"	"3"
 			"textinsetx"	"25"
 			"use_proportional_insets"	"1"
 
