@@ -7,7 +7,7 @@ Scheme
 		//---------------------------------------------
 
 		"CrosshairColor"		"0 0 0 255"
-		"CrosshairDamage"		"255 0 0 255"		// For no damage flash, set to the
+		"CrosshairDamage"		"0 0 0 255"		// For no damage flash, set to the
 													// same value as Crosshair
 
 		"HP"					"243 243 243 255"
