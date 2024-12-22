@@ -51,7 +51,7 @@
 		{
 			"ControlName"	"CBaseModelPanel"
 			"fieldName"		"RankModel"
-			"xpos"			"cs-0.5"
+			"xpos"			"l+10"
 			"ypos"			"cs-0.5"
 			"zpos"			"0"
 			"wide"			"o1"
@@ -168,7 +168,7 @@
 		{
 			"ControlName"	"Button"
 			"fieldName"		"MedalButton"
-			"xpos"			"cs-0.5"
+			"xpos"			"cs-2.82"
 			"ypos"			"cs-0.5+2"
 			"zpos"			"100"
 			"wide"			"o1"
@@ -190,9 +190,9 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"-1"
-		"wide"			"125"
+		"wide"			"280"
 		"tall"			"f40"
-		"visible"		"0"
+		"visible"		"1"
 		"PaintBackgroundType"	"0"
 		"border"		"NoBorder"
 		"bgcolor_override"	"0 0 0 0"
@@ -225,7 +225,7 @@
 
 			if_mini
 			{
-				"visible"	"0"
+				"visible"	"1"
 			}
 		}
 
@@ -307,7 +307,7 @@
 			"fieldName"		"StatsContainer"
 			"xpos"			"0"
 			"ypos"			"0"
-			"wide"			"125"
+			"wide"			"280"
 			"tall"			"f0"
 			"proportionaltoparent"	"1"
 
@@ -344,7 +344,7 @@
 					"zpos"			"0"
 					"wide"			"125"
 					"tall"			"20"
-					"visible"		"0"
+					"visible"		"1"
 					"enabled"		"1"
 					"font"			"ItemFontAttribSmall"
 					"fgcolor_override"	"ahudWhite"
@@ -375,7 +375,7 @@
 					"zpos"			"0"
 					"wide"			"100"
 					"tall"			"20"
-					"visible"		"0"
+					"visible"		"1"
 					"enabled"		"1"
 					"font"			"ItemFontAttribSmall"
 					"fgcolor_override"	"TanLight"
@@ -458,8 +458,8 @@
 				"xpos"			"0"
 				"ypos"			"5"
 				"wide"			"f0"
-				"tall"			"p0.45"
-				"visible"		"0"
+				"tall"			"p0.7"
+				"visible"		"1"
 				"proportionaltoparent"	"1"
 				"bgcolor_override"	"0 0 0 150"
 
@@ -536,6 +536,24 @@
 					"proportionaltoparent"	"1"
 				}
 
+				"ScoreLabel"
+				{
+					"ControlName"	"Label"
+					"fieldName"		"ScoreLabel"
+					"xpos"			"10"
+					"ypos"			"30"
+					"zpos"			"0"
+					"wide"			"100"
+					"tall"			"20"
+					"visible"		"1"
+					"enabled"		"1"
+					"font"			"HudFontSmallest"
+					"fgcolor_override"	"ahudWhite"
+					"textAlignment"	"north-west"
+					"labelText"		"%stat_score%"
+					"proportionaltoparent"	"1"
+				}
+
 				// Second column
 				"DamageLabel"
 				{
@@ -588,25 +606,6 @@
 					"fgcolor_override"	"ahudWhite"
 					"textAlignment"	"north-west"
 					"labelText"		"%stat_support%"
-					"proportionaltoparent"	"1"
-				}
-
-				// Third column
-				"ScoreLabel"
-				{
-					"ControlName"	"Label"
-					"fieldName"		"ScoreLabel"
-					"xpos"			"rs1"
-					"ypos"			"0"
-					"zpos"			"0"
-					"wide"			"100"
-					"tall"			"20"
-					"visible"		"1"
-					"enabled"		"1"
-					"font"			"HudFontSmallest"
-					"fgcolor_override"	"ahudWhite"
-					"textAlignment"	"north-west"
-					"labelText"		"%stat_score%"
 					"proportionaltoparent"	"1"
 				}
 			}
