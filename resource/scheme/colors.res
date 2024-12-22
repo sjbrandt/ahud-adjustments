@@ -7,8 +7,8 @@ Scheme
 		//---------------------------------------------
 		// Restart required for changes to occur
 
-		"Crosshair"				"0 0 0 255"
-		"CrosshairDamage"		"0 0 0 255"		// For no damage flash, set to the
+		"Crosshair"				"0 255 0 255"
+		"CrosshairDamage"		"255 0 0 255"		// For no damage flash, set to the
 													// same value as Crosshair
 
 		"HP"					"243 243 243 255"

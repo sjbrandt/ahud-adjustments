@@ -10,10 +10,10 @@
 
 	KnucklesCrosses
 	{
-		"visible" 		"0"
-		"enabled" 		"0"
+		"visible" 		"1"
+		"enabled" 		"1"
 		
-		"labelText"		"a"
+		"labelText"		"b"
 		
 		"controlName"	"CExLabel"
 		"fieldName"	 	"KnucklesCrosses"
@@ -23,7 +23,7 @@
 		"wide" 		 	"50"
 		"tall" 		 	"50"
 		
-		"font"			"size:30,outline:off"	// size: range 10-50
+		"font"			"size:10,outline:on"	// size: range 10-50
 												// outline: on or off
 		
 		"textAlignment"	"center"
