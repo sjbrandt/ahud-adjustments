@@ -27,7 +27,7 @@
 												// outline: on or off
 		
 		"textAlignment"	"center"
-		"fgcolor" 		"Crosshair"
+		"fgcolor" 		"CrosshairColor"
 	}
 	
 	//--------------------------------------------------------------
