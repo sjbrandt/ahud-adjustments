@@ -8,6 +8,12 @@ This is an ahud fork, meaning the project is copied from the [original ahud repo
 - Fixed MVM currency label being invisible
   - In the official ahud, the mvm currency label is stuffed into the top left corner and only about 1/8th if it is visible
   - In this version, the currency label is whole and is placed above the player's health
+- Fixed missing setting for HUD crosshair being size 10 with outline on
+  - In the file `resource\scheme\xhairs.res`, all combinations of even-numbered size from 10-50 and on/off outline are present, with the exception of `size=10, outline=on`
+  - In this version, this setting is simply added
+- Added functionality for adding hitmarkers
+  - In the official ahud, `event DamagedPlayer` is missing from `scripts\hudanimations_ahud.txt`, meaning it would have to be manually added in order to animate the HUD crosshair on hit
+  - In this version, the boilerplate code for `event DamagedPlayer` has been added to `scripts/hudanimations_ahud.txt`
 
 Below is the readme from the original ahud project by [n0kk](https://github.com/n0kk).
 
