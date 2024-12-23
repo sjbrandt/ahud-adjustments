@@ -19,8 +19,8 @@
 
 	KnucklesCrosses
 	{
-		"enabled" 		"1"
-		"visible" 		"1"
+		"enabled" 		"0"
+		"visible" 		"0"
 		
 		"labelText"		"b"
 		"fgcolor" 		"CrosshairColor" // edit in resource/scheme/colors.res
@@ -44,8 +44,8 @@
 
 	BudhudCrosshairs
 	{
-        "enabled"		"0"
-        "visible" 		"0"
+        "enabled"		"1"
+        "visible" 		"1"
 
         "labeltext" 	"~"
         "fgcolor" 		"CrosshairColor" // edit in resource/scheme/colors.res
