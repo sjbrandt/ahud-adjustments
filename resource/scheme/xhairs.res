@@ -3,10 +3,10 @@ Scheme
 	Fonts
 	{
 		////////////////////////////////////////////////////////////////////////////////////////////////////
-        // ahud Crosshairs
+        // KNUCKLESCROSSES
         ////////////////////////////////////////////////////////////////////////////////////////////////////
 
-		"size:10,outline:off"
+		"KnucklesCrosses | Size: 10 | Outline: Off"
 		{
 			"1"
 			{
@@ -17,7 +17,8 @@ Scheme
 				"outline"	"0"
 			}
 		}
-		"size:12,outline:off"
+
+		"KnucklesCrosses | Size: 12 | Outline: Off"
 		{
 			"1"
 			{
@@ -28,7 +29,8 @@ Scheme
 				"outline"	"0"
 			}
 		}
-		"size:14,outline:off"
+
+		"KnucklesCrosses | Size: 14 | Outline: Off"
 		{
 			"1"
 			{
@@ -39,7 +41,8 @@ Scheme
 				"outline"	"0"
 			}
 		}
-		"size:16,outline:off"
+
+		"KnucklesCrosses | Size: 16 | Outline: Off"
 		{
 			"1"
 			{
@@ -50,7 +53,8 @@ Scheme
 				"outline"	"0"
 			}
 		}
-		"size:18,outline:off"
+
+		"KnucklesCrosses | Size: 18 | Outline: Off"
 		{
 			"1"
 			{
@@ -61,7 +65,8 @@ Scheme
 				"outline"	"0"
 			}
 		}
-		"size:20,outline:off"
+
+		"KnucklesCrosses | Size: 20 | Outline: Off"
 		{
 			"1"
 			{
@@ -72,7 +77,8 @@ Scheme
 				"outline"	"0"
 			}
 		}
-		"size:22,outline:off"
+
+		"KnucklesCrosses | Size: 22 | Outline: Off"
 		{
 			"1"
 			{
@@ -83,7 +89,8 @@ Scheme
 				"outline"	"0"
 			}
 		}
-		"size:24,outline:off"
+
+		"KnucklesCrosses | Size: 24 | Outline: Off"
 		{
 			"1"
 			{
@@ -94,7 +101,8 @@ Scheme
 				"outline"	"0"
 			}
 		}
-		"size:26,outline:off"
+
+		"KnucklesCrosses | Size: 26 | Outline: Off"
 		{
 			"1"
 			{
@@ -105,7 +113,8 @@ Scheme
 				"outline"	"0"
 			}
 		}
-		"size:28,outline:off"
+
+		"KnucklesCrosses | Size: 28 | Outline: Off"
 		{
 			"1"
 			{
@@ -116,7 +125,8 @@ Scheme
 				"outline"	"0"
 			}
 		}
-		"size:30,outline:off"
+
+		"KnucklesCrosses | Size: 30 | Outline: Off"
 		{
 			"1"
 			{
@@ -127,7 +137,8 @@ Scheme
 				"outline"	"0"
 			}
 		}
-		"size:32,outline:off"
+
+		"KnucklesCrosses | Size: 32 | Outline: Off"
 		{
 			"1"
 			{
@@ -138,7 +149,8 @@ Scheme
 				"outline"	"0"
 			}
 		}
-		"size:34,outline:off"
+
+		"KnucklesCrosses | Size: 34 | Outline: Off"
 		{
 			"1"
 			{
@@ -149,7 +161,8 @@ Scheme
 				"outline"	"0"
 			}
 		}
-		"size:36,outline:off"
+
+		"KnucklesCrosses | Size: 36 | Outline: Off"
 		{
 			"1"
 			{
@@ -160,7 +173,8 @@ Scheme
 				"outline"	"0"
 			}
 		}
-		"size:38,outline:off"
+
+		"KnucklesCrosses | Size: 38 | Outline: Off"
 		{
 			"1"
 			{
@@ -171,7 +185,8 @@ Scheme
 				"outline"	"0"
 			}
 		}
-		"size:40,outline:off"
+
+		"KnucklesCrosses | Size: 40 | Outline: Off"
 		{
 			"1"
 			{
@@ -182,7 +197,8 @@ Scheme
 				"outline"	"0"
 			}
 		}
-		"size:42,outline:off"
+
+		"KnucklesCrosses | Size: 42 | Outline: Off"
 		{
 			"1"
 			{
@@ -193,7 +209,8 @@ Scheme
 				"outline"	"0"
 			}
 		}
-		"size:44,outline:off"
+
+		"KnucklesCrosses | Size: 44 | Outline: Off"
 		{
 			"1"
 			{
@@ -204,7 +221,8 @@ Scheme
 				"outline"	"0"
 			}
 		}
-		"size:46,outline:off"
+
+		"KnucklesCrosses | Size: 46 | Outline: Off"
 		{
 			"1"
 			{
@@ -215,7 +233,8 @@ Scheme
 				"outline"	"0"
 			}
 		}
-		"size:48,outline:off"
+
+		"KnucklesCrosses | Size: 48 | Outline: Off"
 		{
 			"1"
 			{
@@ -226,7 +245,8 @@ Scheme
 				"outline"	"0"
 			}
 		}
-		"size:50,outline:off"
+
+		"KnucklesCrosses | Size: 50 | Outline: Off"
 		{
 			"1"
 			{
@@ -237,7 +257,8 @@ Scheme
 				"outline"	"0"
 			}
 		}
-		"size:10,outline:on"
+
+		"KnucklesCrosses | Size: 10 | Outline: On"
 		{
 			"1"
 			{
@@ -248,7 +269,8 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"size:12,outline:on"
+
+		"KnucklesCrosses | Size: 12 | Outline: On"
 		{
 			"1"
 			{
@@ -259,7 +281,8 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"size:14,outline:on"
+
+		"KnucklesCrosses | Size: 14 | Outline: On"
 		{
 			"1"
 			{
@@ -270,7 +293,8 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"size:16,outline:on"
+
+		"KnucklesCrosses | Size: 16 | Outline: On"
 		{
 			"1"
 			{
@@ -281,7 +305,8 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"size:18,outline:on"
+
+		"KnucklesCrosses | Size: 18 | Outline: On"
 		{
 			"1"
 			{
@@ -292,7 +317,8 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"size:20,outline:on"
+		
+		"KnucklesCrosses | Size: 20 | Outline: On"
 		{
 			"1"
 			{
@@ -303,7 +329,8 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"size:22,outline:on"
+
+		"KnucklesCrosses | Size: 22 | Outline: On"
 		{
 			"1"
 			{
@@ -314,7 +341,8 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"size:24,outline:on"
+
+		"KnucklesCrosses | Size: 24 | Outline: On"
 		{
 			"1"
 			{
@@ -325,7 +353,8 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"size:26,outline:on"
+
+		"KnucklesCrosses | Size: 26 | Outline: On"
 		{
 			"1"
 			{
@@ -336,7 +365,8 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"size:28,outline:on"
+
+		"KnucklesCrosses | Size: 28 | Outline: On"
 		{
 			"1"
 			{
@@ -347,7 +377,8 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"size:30,outline:on"
+
+		"KnucklesCrosses | Size: 30 | Outline: On"
 		{
 			"1"
 			{
@@ -358,7 +389,8 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"size:32,outline:on"
+
+		"KnucklesCrosses | Size: 32 | Outline: On"
 		{
 			"1"
 			{
@@ -369,7 +401,8 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"size:34,outline:on"
+
+		"KnucklesCrosses | Size: 34 | Outline: On"
 		{
 			"1"
 			{
@@ -380,7 +413,8 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"size:36,outline:on"
+
+		"KnucklesCrosses | Size: 36 | Outline: On"
 		{
 			"1"
 			{
@@ -391,7 +425,8 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"size:38,outline:on"
+
+		"KnucklesCrosses | Size: 38 | Outline: On"
 		{
 			"1"
 			{
@@ -402,7 +437,8 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"size:40,outline:on"
+
+		"KnucklesCrosses | Size: 40 | Outline: On"
 		{
 			"1"
 			{
@@ -413,7 +449,8 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"size:42,outline:on"
+
+		"KnucklesCrosses | Size: 42 | Outline: On"
 		{
 			"1"
 			{
@@ -424,7 +461,8 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"size:44,outline:on"
+
+		"KnucklesCrosses | Size: 44 | Outline: On"
 		{
 			"1"
 			{
@@ -435,7 +473,8 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"size:46,outline:on"
+
+		"KnucklesCrosses | Size: 46 | Outline: On"
 		{
 			"1"
 			{
@@ -446,7 +485,8 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"size:48,outline:on"
+
+		"KnucklesCrosses | Size: 48 | Outline: On"
 		{
 			"1"
 			{
@@ -457,7 +497,8 @@ Scheme
 				"outline"	"1"
 			}
 		}
-		"size:50,outline:on"
+
+		"KnucklesCrosses | Size: 50 | Outline: On"
 		{
 			"1"
 			{
@@ -470,14 +511,14 @@ Scheme
 		}
 
 		////////////////////////////////////////////////////////////////////////////////////////////////////
-        // Budhud Crosshairs
+        // BUDHUD CROSSHAIRS
         ////////////////////////////////////////////////////////////////////////////////////////////////////
 
-        "Crosshair: TF2Crosshairs | Size: 10 | Outline: Off"
+        "BudhudCrosshairs | Size: 10 | Outline: Off"
         {
             "1"
             {
-                "name"                                              "BudhudCrosshairs"
+                "name"                                              "TF2Crosshairs"
                 "tall"                                              "10"
                 "antialias"                                         "1"
                 "additive"                                          "0"
@@ -485,11 +526,11 @@ Scheme
             }
         }
 
-        "Crosshair: TF2Crosshairs | Size: 11 | Outline: Off"
+        "BudhudCrosshairs | Size: 11 | Outline: Off"
         {
             "1"
             {
-                "name"                                              "BudhudCrosshairs"
+                "name"                                              "TF2Crosshairs"
                 "tall"                                              "11"
                 "antialias"                                         "1"
                 "additive"                                          "0"
@@ -497,11 +538,11 @@ Scheme
             }
         }
 
-        "Crosshair: TF2Crosshairs | Size: 12 | Outline: Off"
+        "BudhudCrosshairs | Size: 12 | Outline: Off"
         {
             "1"
             {
-                "name"                                              "BudhudCrosshairs"
+                "name"                                              "TF2Crosshairs"
                 "tall"                                              "12"
                 "antialias"                                         "1"
                 "additive"                                          "0"
@@ -509,11 +550,11 @@ Scheme
             }
         }
 
-        "Crosshair: TF2Crosshairs | Size: 13 | Outline: Off"
+        "BudhudCrosshairs | Size: 13 | Outline: Off"
         {
             "1"
             {
-                "name"                                              "BudhudCrosshairs"
+                "name"                                              "TF2Crosshairs"
                 "tall"                                              "13"
                 "antialias"                                         "1"
                 "additive"                                          "0"
@@ -521,11 +562,11 @@ Scheme
             }
         }
 
-        "Crosshair: TF2Crosshairs | Size: 14 | Outline: Off"
+        "BudhudCrosshairs | Size: 14 | Outline: Off"
         {
             "1"
             {
-                "name"                                              "BudhudCrosshairs"
+                "name"                                              "TF2Crosshairs"
                 "tall"                                              "14"
                 "antialias"                                         "1"
                 "additive"                                          "0"
@@ -533,11 +574,11 @@ Scheme
             }
         }
 
-        "Crosshair: TF2Crosshairs | Size: 15 | Outline: Off"
+        "BudhudCrosshairs | Size: 15 | Outline: Off"
         {
             "1"
             {
-                "name"                                              "BudhudCrosshairs"
+                "name"                                              "TF2Crosshairs"
                 "tall"                                              "15"
                 "antialias"                                         "1"
                 "additive"                                          "0"
@@ -545,11 +586,11 @@ Scheme
             }
         }
 
-        "Crosshair: TF2Crosshairs | Size: 16 | Outline: Off"
+        "BudhudCrosshairs | Size: 16 | Outline: Off"
         {
             "1"
             {
-                "name"                                              "BudhudCrosshairs"
+                "name"                                              "TF2Crosshairs"
                 "tall"                                              "16"
                 "antialias"                                         "1"
                 "additive"                                          "0"
@@ -557,11 +598,11 @@ Scheme
             }
         }
 
-        "Crosshair: TF2Crosshairs | Size: 17 | Outline: Off"
+        "BudhudCrosshairs | Size: 17 | Outline: Off"
         {
             "1"
             {
-                "name"                                              "BudhudCrosshairs"
+                "name"                                              "TF2Crosshairs"
                 "tall"                                              "17"
                 "antialias"                                         "1"
                 "additive"                                          "0"
@@ -569,11 +610,11 @@ Scheme
             }
         }
 
-        "Crosshair: TF2Crosshairs | Size: 18 | Outline: Off"
+        "BudhudCrosshairs | Size: 18 | Outline: Off"
         {
             "1"
             {
-                "name"                                              "BudhudCrosshairs"
+                "name"                                              "TF2Crosshairs"
                 "tall"                                              "18"
                 "antialias"                                         "1"
                 "additive"                                          "0"
@@ -581,11 +622,11 @@ Scheme
             }
         }
 
-        "Crosshair: TF2Crosshairs | Size: 19 | Outline: Off"
+        "BudhudCrosshairs | Size: 19 | Outline: Off"
         {
             "1"
             {
-                "name"                                              "BudhudCrosshairs"
+                "name"                                              "TF2Crosshairs"
                 "tall"                                              "19"
                 "antialias"                                         "1"
                 "additive"                                          "0"
@@ -593,11 +634,11 @@ Scheme
             }
         }
 
-        "Crosshair: TF2Crosshairs | Size: 20 | Outline: Off"
+        "BudhudCrosshairs | Size: 20 | Outline: Off"
         {
             "1"
             {
-                "name"                                              "BudhudCrosshairs"
+                "name"                                              "TF2Crosshairs"
                 "tall"                                              "20"
                 "antialias"                                         "1"
                 "additive"                                          "0"
@@ -605,11 +646,11 @@ Scheme
             }
         }
 
-        "Crosshair: TF2Crosshairs | Size: 21 | Outline: Off"
+        "BudhudCrosshairs | Size: 21 | Outline: Off"
         {
             "1"
             {
-                "name"                                              "BudhudCrosshairs"
+                "name"                                              "TF2Crosshairs"
                 "tall"                                              "21"
                 "antialias"                                         "1"
                 "additive"                                          "0"
@@ -617,11 +658,11 @@ Scheme
             }
         }
 
-        "Crosshair: TF2Crosshairs | Size: 22 | Outline: Off"
+        "BudhudCrosshairs | Size: 22 | Outline: Off"
         {
             "1"
             {
-                "name"                                              "BudhudCrosshairs"
+                "name"                                              "TF2Crosshairs"
                 "tall"                                              "22"
                 "antialias"                                         "1"
                 "additive"                                          "0"
@@ -629,11 +670,11 @@ Scheme
             }
         }
 
-        "Crosshair: TF2Crosshairs | Size: 23 | Outline: Off"
+        "BudhudCrosshairs | Size: 23 | Outline: Off"
         {
             "1"
             {
-                "name"                                              "BudhudCrosshairs"
+                "name"                                              "TF2Crosshairs"
                 "tall"                                              "23"
                 "antialias"                                         "1"
                 "additive"                                          "0"
@@ -641,11 +682,11 @@ Scheme
             }
         }
 
-        "Crosshair: TF2Crosshairs | Size: 24 | Outline: Off"
+        "BudhudCrosshairs | Size: 24 | Outline: Off"
         {
             "1"
             {
-                "name"                                              "BudhudCrosshairs"
+                "name"                                              "TF2Crosshairs"
                 "tall"                                              "24"
                 "antialias"                                         "1"
                 "additive"                                          "0"
@@ -653,11 +694,11 @@ Scheme
             }
         }
 
-        "Crosshair: TF2Crosshairs | Size: 25 | Outline: Off"
+        "BudhudCrosshairs | Size: 25 | Outline: Off"
         {
             "1"
             {
-                "name"                                              "BudhudCrosshairs"
+                "name"                                              "TF2Crosshairs"
                 "tall"                                              "25"
                 "antialias"                                         "1"
                 "additive"                                          "0"
@@ -665,11 +706,11 @@ Scheme
             }
         }
 
-        "Crosshair: TF2Crosshairs | Size: 26 | Outline: Off"
+        "BudhudCrosshairs | Size: 26 | Outline: Off"
         {
             "1"
             {
-                "name"                                              "BudhudCrosshairs"
+                "name"                                              "TF2Crosshairs"
                 "tall"                                              "26"
                 "antialias"                                         "1"
                 "additive"                                          "0"
@@ -677,11 +718,11 @@ Scheme
             }
         }
 
-        "Crosshair: TF2Crosshairs | Size: 27 | Outline: Off"
+        "BudhudCrosshairs | Size: 27 | Outline: Off"
         {
             "1"
             {
-                "name"                                              "BudhudCrosshairs"
+                "name"                                              "TF2Crosshairs"
                 "tall"                                              "27"
                 "antialias"                                         "1"
                 "additive"                                          "0"
@@ -689,11 +730,11 @@ Scheme
             }
         }
 
-        "Crosshair: TF2Crosshairs | Size: 28 | Outline: Off"
+        "BudhudCrosshairs | Size: 28 | Outline: Off"
         {
             "1"
             {
-                "name"                                              "BudhudCrosshairs"
+                "name"                                              "TF2Crosshairs"
                 "tall"                                              "28"
                 "antialias"                                         "1"
                 "additive"                                          "0"
@@ -701,11 +742,11 @@ Scheme
             }
         }
 
-        "Crosshair: TF2Crosshairs | Size: 29 | Outline: Off"
+        "BudhudCrosshairs | Size: 29 | Outline: Off"
         {
             "1"
             {
-                "name"                                              "BudhudCrosshairs"
+                "name"                                              "TF2Crosshairs"
                 "tall"                                              "29"
                 "antialias"                                         "1"
                 "additive"                                          "0"
@@ -713,11 +754,11 @@ Scheme
             }
         }
 
-        "Crosshair: TF2Crosshairs | Size: 30 | Outline: Off"
+        "BudhudCrosshairs | Size: 30 | Outline: Off"
         {
             "1"
             {
-                "name"                                              "BudhudCrosshairs"
+                "name"                                              "TF2Crosshairs"
                 "tall"                                              "30"
                 "antialias"                                         "1"
                 "additive"                                          "0"
@@ -725,11 +766,11 @@ Scheme
             }
         }
 
-        "Crosshair: TF2Crosshairs | Size: 10 | Outline: On"
+        "BudhudCrosshairs | Size: 10 | Outline: On"
         {
             "1"
             {
-                "name"                                              "BudhudCrosshairs"
+                "name"                                              "TF2Crosshairs"
                 "tall"                                              "10"
                 "antialias"                                         "1"
                 "additive"                                          "0"
@@ -737,11 +778,11 @@ Scheme
             }
         }
 
-        "Crosshair: TF2Crosshairs | Size: 11 | Outline: On"
+        "BudhudCrosshairs | Size: 11 | Outline: On"
         {
             "1"
             {
-                "name"                                              "BudhudCrosshairs"
+                "name"                                              "TF2Crosshairs"
                 "tall"                                              "11"
                 "antialias"                                         "1"
                 "additive"                                          "0"
@@ -749,11 +790,11 @@ Scheme
             }
         }
 
-        "Crosshair: TF2Crosshairs | Size: 12 | Outline: On"
+        "BudhudCrosshairs | Size: 12 | Outline: On"
         {
             "1"
             {
-                "name"                                              "BudhudCrosshairs"
+                "name"                                              "TF2Crosshairs"
                 "tall"                                              "12"
                 "antialias"                                         "1"
                 "additive"                                          "0"
@@ -761,11 +802,11 @@ Scheme
             }
         }
 
-        "Crosshair: TF2Crosshairs | Size: 13 | Outline: On"
+        "BudhudCrosshairs | Size: 13 | Outline: On"
         {
             "1"
             {
-                "name"                                              "BudhudCrosshairs"
+                "name"                                              "TF2Crosshairs"
                 "tall"                                              "13"
                 "antialias"                                         "1"
                 "additive"                                          "0"
@@ -773,11 +814,11 @@ Scheme
             }
         }
 
-        "Crosshair: TF2Crosshairs | Size: 14 | Outline: On"
+        "BudhudCrosshairs | Size: 14 | Outline: On"
         {
             "1"
             {
-                "name"                                              "BudhudCrosshairs"
+                "name"                                              "TF2Crosshairs"
                 "tall"                                              "14"
                 "antialias"                                         "1"
                 "additive"                                          "0"
@@ -785,11 +826,11 @@ Scheme
             }
         }
 
-        "Crosshair: TF2Crosshairs | Size: 15 | Outline: On"
+        "BudhudCrosshairs | Size: 15 | Outline: On"
         {
             "1"
             {
-                "name"                                              "BudhudCrosshairs"
+                "name"                                              "TF2Crosshairs"
                 "tall"                                              "15"
                 "antialias"                                         "1"
                 "additive"                                          "0"
@@ -797,7 +838,7 @@ Scheme
             }
         }
 
-        "Crosshair: TF2Crosshairs | Size: 16 | Outline: On"
+        "BudhudCrosshairs | Size: 16 | Outline: On"
         {
             "1"
             {
@@ -809,11 +850,11 @@ Scheme
             }
         }
 
-        "Crosshair: TF2Crosshairs | Size: 17 | Outline: On"
+        "BudhudCrosshairs | Size: 17 | Outline: On"
         {
             "1"
             {
-                "name"                                              "BudhudCrosshairs"
+                "name"                                              "TF2Crosshairs"
                 "tall"                                              "17"
                 "antialias"                                         "1"
                 "additive"                                          "0"
@@ -821,11 +862,11 @@ Scheme
             }
         }
 
-        "Crosshair: TF2Crosshairs | Size: 18 | Outline: On"
+        "BudhudCrosshairs | Size: 18 | Outline: On"
         {
             "1"
             {
-                "name"                                              "BudhudCrosshairs"
+                "name"                                              "TF2Crosshairs"
                 "tall"                                              "18"
                 "antialias"                                         "1"
                 "additive"                                          "0"
@@ -833,11 +874,11 @@ Scheme
             }
         }
 
-        "Crosshair: TF2Crosshairs | Size: 19 | Outline: On"
+        "BudhudCrosshairs | Size: 19 | Outline: On"
         {
             "1"
             {
-                "name"                                              "BudhudCrosshairs"
+                "name"                                              "TF2Crosshairs"
                 "tall"                                              "19"
                 "antialias"                                         "1"
                 "additive"                                          "0"
@@ -845,11 +886,11 @@ Scheme
             }
         }
 
-        "Crosshair: TF2Crosshairs | Size: 20 | Outline: On"
+        "BudhudCrosshairs | Size: 20 | Outline: On"
         {
             "1"
             {
-                "name"                                              "BudhudCrosshairs"
+                "name"                                              "TF2Crosshairs"
                 "tall"                                              "20"
                 "antialias"                                         "1"
                 "additive"                                          "0"
@@ -857,11 +898,11 @@ Scheme
             }
         }
 
-        "Crosshair: TF2Crosshairs | Size: 21 | Outline: On"
+        "BudhudCrosshairs | Size: 21 | Outline: On"
         {
             "1"
             {
-                "name"                                              "BudhudCrosshairs"
+                "name"                                              "TF2Crosshairs"
                 "tall"                                              "21"
                 "antialias"                                         "1"
                 "additive"                                          "0"
@@ -869,11 +910,11 @@ Scheme
             }
         }
 
-        "Crosshair: TF2Crosshairs | Size: 22 | Outline: On"
+        "BudhudCrosshairs | Size: 22 | Outline: On"
         {
             "1"
             {
-                "name"                                              "BudhudCrosshairs"
+                "name"                                              "TF2Crosshairs"
                 "tall"                                              "22"
                 "antialias"                                         "1"
                 "additive"                                          "0"
@@ -881,11 +922,11 @@ Scheme
             }
         }
 
-        "Crosshair: TF2Crosshairs | Size: 23 | Outline: On"
+        "BudhudCrosshairs | Size: 23 | Outline: On"
         {
             "1"
             {
-                "name"                                              "BudhudCrosshairs"
+                "name"                                              "TF2Crosshairs"
                 "tall"                                              "23"
                 "antialias"                                         "1"
                 "additive"                                          "0"
@@ -893,11 +934,11 @@ Scheme
             }
         }
 
-        "Crosshair: TF2Crosshairs | Size: 24 | Outline: On"
+        "BudhudCrosshairs | Size: 24 | Outline: On"
         {
             "1"
             {
-                "name"                                              "BudhudCrosshairs"
+                "name"                                              "TF2Crosshairs"
                 "tall"                                              "24"
                 "antialias"                                         "1"
                 "additive"                                          "0"
@@ -905,11 +946,11 @@ Scheme
             }
         }
 
-        "Crosshair: TF2Crosshairs | Size: 25 | Outline: On"
+        "BudhudCrosshairs | Size: 25 | Outline: On"
         {
             "1"
             {
-                "name"                                              "BudhudCrosshairs"
+                "name"                                              "TF2Crosshairs"
                 "tall"                                              "25"
                 "antialias"                                         "1"
                 "additive"                                          "0"
@@ -917,11 +958,11 @@ Scheme
             }
         }
 
-        "Crosshair: TF2Crosshairs | Size: 26 | Outline: On"
+        "BudhudCrosshairs | Size: 26 | Outline: On"
         {
             "1"
             {
-                "name"                                              "BudhudCrosshairs"
+                "name"                                              "TF2Crosshairs"
                 "tall"                                              "26"
                 "antialias"                                         "1"
                 "additive"                                          "0"
@@ -929,11 +970,11 @@ Scheme
             }
         }
 
-        "Crosshair: TF2Crosshairs | Size: 27 | Outline: On"
+        "BudhudCrosshairs | Size: 27 | Outline: On"
         {
             "1"
             {
-                "name"                                              "BudhudCrosshairs"
+                "name"                                              "TF2Crosshairs"
                 "tall"                                              "27"
                 "antialias"                                         "1"
                 "additive"                                          "0"
@@ -941,11 +982,11 @@ Scheme
             }
         }
 
-        "Crosshair: TF2Crosshairs | Size: 28 | Outline: On"
+        "BudhudCrosshairs | Size: 28 | Outline: On"
         {
             "1"
             {
-                "name"                                              "BudhudCrosshairs"
+                "name"                                              "TF2Crosshairs"
                 "tall"                                              "28"
                 "antialias"                                         "1"
                 "additive"                                          "0"
@@ -953,11 +994,11 @@ Scheme
             }
         }
 
-        "Crosshair: TF2Crosshairs | Size: 29 | Outline: On"
+        "BudhudCrosshairs | Size: 29 | Outline: On"
         {
             "1"
             {
-                "name"                                              "BudhudCrosshairs"
+                "name"                                              "TF2Crosshairs"
                 "tall"                                              "29"
                 "antialias"                                         "1"
                 "additive"                                          "0"
@@ -965,11 +1006,11 @@ Scheme
             }
         }
 
-        "Crosshair: TF2Crosshairs | Size: 30 | Outline: On"
+        "BudhudCrosshairs | Size: 30 | Outline: On"
         {
             "1"
             {
-                "name"                                              "BudhudCrosshairs"
+                "name"                                              "TF2Crosshairs"
                 "tall"                                              "30"
                 "antialias"                                         "1"
                 "additive"                                          "0"
