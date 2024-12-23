@@ -14,6 +14,10 @@ This is an ahud fork, meaning the project is copied from the [original ahud repo
 - Added functionality for adding hitmarkers
   - In the official ahud, `event DamagedPlayer` is missing from `scripts\hudanimations_ahud.txt`, meaning it would have to be manually added in order to animate the HUD crosshair on hit
   - In this version, the boilerplate code for `event DamagedPlayer` has been added to `scripts/hudanimations_ahud.txt`
+- Added functionality for HUD crosshairs from budhud
+  - In `scripts/hudlayout.res`, you can add or change a HUD crosshair
+  - In this version, another pack of crosshairs is added, containing crosshairs from [budhud](https://github.com/rbjaxter/budhud)
+  - Also slightly changed the format in which one changes the size and outline of the HUD crosshair, to a format which is similar to that in budhud.
 
 Below is the readme from the original ahud project by [n0kk](https://github.com/n0kk).
 
