@@ -10,8 +10,8 @@
 
 	KnucklesCrosses
 	{
-		"visible" 		"1"
-		"enabled" 		"1"
+		"visible" 		"0"
+		"enabled" 		"0"
 		
 		"labelText"		"b"
 		
@@ -29,6 +29,28 @@
 		"textAlignment"	"center"
 		"fgcolor" 		"Crosshair"
 	}
+
+	//--------------------------------------------------------------
+	// BUDHUDCROSSHAIRS // really, rename to unified crosshairs or something idk
+	//--------------------------------------------------------------
+	
+	BudhudCrosshairs
+	{
+        "enabled"                                                   "1"
+        "visible"                                                   "1"
+        "labeltext"                                                 "~"
+        "font"                                                      "Crosshair: TF2Crosshairs | Size: 16 | Outline: On"
+        "fgcolor"                                                   "Crosshair"
+        // Defaults
+        "xpos"                                                      "cs-0.4999"
+        "ypos"                                                      "cs-0.4990"
+        "controlname"                                               "CExLabel"
+        "fieldname"                                                 "BudhudCrosshairs"
+        "textAlignment"                                             "center"
+        "zpos"                                                      "0"
+        "wide"                                                      "f0"
+        "tall"                                                      "f0"
+    }
 	
 	//--------------------------------------------------------------
 

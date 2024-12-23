@@ -2,6 +2,10 @@ Scheme
 {
 	Fonts
 	{
+		////////////////////////////////////////////////////////////////////////////////////////////////////
+        // ahud Crosshairs
+        ////////////////////////////////////////////////////////////////////////////////////////////////////
+
 		"size:10,outline:off"
 		{
 			"1"
@@ -464,5 +468,513 @@ Scheme
 				"outline"	"1"
 			}
 		}
+
+		////////////////////////////////////////////////////////////////////////////////////////////////////
+        // Budhud Crosshairs
+        ////////////////////////////////////////////////////////////////////////////////////////////////////
+
+        "Crosshair: TF2Crosshairs | Size: 10 | Outline: Off"
+        {
+            "1"
+            {
+                "name"                                              "BudhudCrosshairs"
+                "tall"                                              "10"
+                "antialias"                                         "1"
+                "additive"                                          "0"
+                "outline"                                           "0"
+            }
+        }
+
+        "Crosshair: TF2Crosshairs | Size: 11 | Outline: Off"
+        {
+            "1"
+            {
+                "name"                                              "BudhudCrosshairs"
+                "tall"                                              "11"
+                "antialias"                                         "1"
+                "additive"                                          "0"
+                "outline"                                           "0"
+            }
+        }
+
+        "Crosshair: TF2Crosshairs | Size: 12 | Outline: Off"
+        {
+            "1"
+            {
+                "name"                                              "BudhudCrosshairs"
+                "tall"                                              "12"
+                "antialias"                                         "1"
+                "additive"                                          "0"
+                "outline"                                           "0"
+            }
+        }
+
+        "Crosshair: TF2Crosshairs | Size: 13 | Outline: Off"
+        {
+            "1"
+            {
+                "name"                                              "BudhudCrosshairs"
+                "tall"                                              "13"
+                "antialias"                                         "1"
+                "additive"                                          "0"
+                "outline"                                           "0"
+            }
+        }
+
+        "Crosshair: TF2Crosshairs | Size: 14 | Outline: Off"
+        {
+            "1"
+            {
+                "name"                                              "BudhudCrosshairs"
+                "tall"                                              "14"
+                "antialias"                                         "1"
+                "additive"                                          "0"
+                "outline"                                           "0"
+            }
+        }
+
+        "Crosshair: TF2Crosshairs | Size: 15 | Outline: Off"
+        {
+            "1"
+            {
+                "name"                                              "BudhudCrosshairs"
+                "tall"                                              "15"
+                "antialias"                                         "1"
+                "additive"                                          "0"
+                "outline"                                           "0"
+            }
+        }
+
+        "Crosshair: TF2Crosshairs | Size: 16 | Outline: Off"
+        {
+            "1"
+            {
+                "name"                                              "BudhudCrosshairs"
+                "tall"                                              "16"
+                "antialias"                                         "1"
+                "additive"                                          "0"
+                "outline"                                           "0"
+            }
+        }
+
+        "Crosshair: TF2Crosshairs | Size: 17 | Outline: Off"
+        {
+            "1"
+            {
+                "name"                                              "BudhudCrosshairs"
+                "tall"                                              "17"
+                "antialias"                                         "1"
+                "additive"                                          "0"
+                "outline"                                           "0"
+            }
+        }
+
+        "Crosshair: TF2Crosshairs | Size: 18 | Outline: Off"
+        {
+            "1"
+            {
+                "name"                                              "BudhudCrosshairs"
+                "tall"                                              "18"
+                "antialias"                                         "1"
+                "additive"                                          "0"
+                "outline"                                           "0"
+            }
+        }
+
+        "Crosshair: TF2Crosshairs | Size: 19 | Outline: Off"
+        {
+            "1"
+            {
+                "name"                                              "BudhudCrosshairs"
+                "tall"                                              "19"
+                "antialias"                                         "1"
+                "additive"                                          "0"
+                "outline"                                           "0"
+            }
+        }
+
+        "Crosshair: TF2Crosshairs | Size: 20 | Outline: Off"
+        {
+            "1"
+            {
+                "name"                                              "BudhudCrosshairs"
+                "tall"                                              "20"
+                "antialias"                                         "1"
+                "additive"                                          "0"
+                "outline"                                           "0"
+            }
+        }
+
+        "Crosshair: TF2Crosshairs | Size: 21 | Outline: Off"
+        {
+            "1"
+            {
+                "name"                                              "BudhudCrosshairs"
+                "tall"                                              "21"
+                "antialias"                                         "1"
+                "additive"                                          "0"
+                "outline"                                           "0"
+            }
+        }
+
+        "Crosshair: TF2Crosshairs | Size: 22 | Outline: Off"
+        {
+            "1"
+            {
+                "name"                                              "BudhudCrosshairs"
+                "tall"                                              "22"
+                "antialias"                                         "1"
+                "additive"                                          "0"
+                "outline"                                           "0"
+            }
+        }
+
+        "Crosshair: TF2Crosshairs | Size: 23 | Outline: Off"
+        {
+            "1"
+            {
+                "name"                                              "BudhudCrosshairs"
+                "tall"                                              "23"
+                "antialias"                                         "1"
+                "additive"                                          "0"
+                "outline"                                           "0"
+            }
+        }
+
+        "Crosshair: TF2Crosshairs | Size: 24 | Outline: Off"
+        {
+            "1"
+            {
+                "name"                                              "BudhudCrosshairs"
+                "tall"                                              "24"
+                "antialias"                                         "1"
+                "additive"                                          "0"
+                "outline"                                           "0"
+            }
+        }
+
+        "Crosshair: TF2Crosshairs | Size: 25 | Outline: Off"
+        {
+            "1"
+            {
+                "name"                                              "BudhudCrosshairs"
+                "tall"                                              "25"
+                "antialias"                                         "1"
+                "additive"                                          "0"
+                "outline"                                           "0"
+            }
+        }
+
+        "Crosshair: TF2Crosshairs | Size: 26 | Outline: Off"
+        {
+            "1"
+            {
+                "name"                                              "BudhudCrosshairs"
+                "tall"                                              "26"
+                "antialias"                                         "1"
+                "additive"                                          "0"
+                "outline"                                           "0"
+            }
+        }
+
+        "Crosshair: TF2Crosshairs | Size: 27 | Outline: Off"
+        {
+            "1"
+            {
+                "name"                                              "BudhudCrosshairs"
+                "tall"                                              "27"
+                "antialias"                                         "1"
+                "additive"                                          "0"
+                "outline"                                           "0"
+            }
+        }
+
+        "Crosshair: TF2Crosshairs | Size: 28 | Outline: Off"
+        {
+            "1"
+            {
+                "name"                                              "BudhudCrosshairs"
+                "tall"                                              "28"
+                "antialias"                                         "1"
+                "additive"                                          "0"
+                "outline"                                           "0"
+            }
+        }
+
+        "Crosshair: TF2Crosshairs | Size: 29 | Outline: Off"
+        {
+            "1"
+            {
+                "name"                                              "BudhudCrosshairs"
+                "tall"                                              "29"
+                "antialias"                                         "1"
+                "additive"                                          "0"
+                "outline"                                           "0"
+            }
+        }
+
+        "Crosshair: TF2Crosshairs | Size: 30 | Outline: Off"
+        {
+            "1"
+            {
+                "name"                                              "BudhudCrosshairs"
+                "tall"                                              "30"
+                "antialias"                                         "1"
+                "additive"                                          "0"
+                "outline"                                           "0"
+            }
+        }
+
+        "Crosshair: TF2Crosshairs | Size: 10 | Outline: On"
+        {
+            "1"
+            {
+                "name"                                              "BudhudCrosshairs"
+                "tall"                                              "10"
+                "antialias"                                         "1"
+                "additive"                                          "0"
+                "outline"                                           "1"
+            }
+        }
+
+        "Crosshair: TF2Crosshairs | Size: 11 | Outline: On"
+        {
+            "1"
+            {
+                "name"                                              "BudhudCrosshairs"
+                "tall"                                              "11"
+                "antialias"                                         "1"
+                "additive"                                          "0"
+                "outline"                                           "1"
+            }
+        }
+
+        "Crosshair: TF2Crosshairs | Size: 12 | Outline: On"
+        {
+            "1"
+            {
+                "name"                                              "BudhudCrosshairs"
+                "tall"                                              "12"
+                "antialias"                                         "1"
+                "additive"                                          "0"
+                "outline"                                           "1"
+            }
+        }
+
+        "Crosshair: TF2Crosshairs | Size: 13 | Outline: On"
+        {
+            "1"
+            {
+                "name"                                              "BudhudCrosshairs"
+                "tall"                                              "13"
+                "antialias"                                         "1"
+                "additive"                                          "0"
+                "outline"                                           "1"
+            }
+        }
+
+        "Crosshair: TF2Crosshairs | Size: 14 | Outline: On"
+        {
+            "1"
+            {
+                "name"                                              "BudhudCrosshairs"
+                "tall"                                              "14"
+                "antialias"                                         "1"
+                "additive"                                          "0"
+                "outline"                                           "1"
+            }
+        }
+
+        "Crosshair: TF2Crosshairs | Size: 15 | Outline: On"
+        {
+            "1"
+            {
+                "name"                                              "BudhudCrosshairs"
+                "tall"                                              "15"
+                "antialias"                                         "1"
+                "additive"                                          "0"
+                "outline"                                           "1"
+            }
+        }
+
+        "Crosshair: TF2Crosshairs | Size: 16 | Outline: On"
+        {
+            "1"
+            {
+                "name"                                              "TF2Crosshairs"
+                "tall"                                              "16"
+                "antialias"                                         "1"
+                "additive"                                          "0"
+                "outline"                                           "1"
+            }
+        }
+
+        "Crosshair: TF2Crosshairs | Size: 17 | Outline: On"
+        {
+            "1"
+            {
+                "name"                                              "BudhudCrosshairs"
+                "tall"                                              "17"
+                "antialias"                                         "1"
+                "additive"                                          "0"
+                "outline"                                           "1"
+            }
+        }
+
+        "Crosshair: TF2Crosshairs | Size: 18 | Outline: On"
+        {
+            "1"
+            {
+                "name"                                              "BudhudCrosshairs"
+                "tall"                                              "18"
+                "antialias"                                         "1"
+                "additive"                                          "0"
+                "outline"                                           "1"
+            }
+        }
+
+        "Crosshair: TF2Crosshairs | Size: 19 | Outline: On"
+        {
+            "1"
+            {
+                "name"                                              "BudhudCrosshairs"
+                "tall"                                              "19"
+                "antialias"                                         "1"
+                "additive"                                          "0"
+                "outline"                                           "1"
+            }
+        }
+
+        "Crosshair: TF2Crosshairs | Size: 20 | Outline: On"
+        {
+            "1"
+            {
+                "name"                                              "BudhudCrosshairs"
+                "tall"                                              "20"
+                "antialias"                                         "1"
+                "additive"                                          "0"
+                "outline"                                           "1"
+            }
+        }
+
+        "Crosshair: TF2Crosshairs | Size: 21 | Outline: On"
+        {
+            "1"
+            {
+                "name"                                              "BudhudCrosshairs"
+                "tall"                                              "21"
+                "antialias"                                         "1"
+                "additive"                                          "0"
+                "outline"                                           "1"
+            }
+        }
+
+        "Crosshair: TF2Crosshairs | Size: 22 | Outline: On"
+        {
+            "1"
+            {
+                "name"                                              "BudhudCrosshairs"
+                "tall"                                              "22"
+                "antialias"                                         "1"
+                "additive"                                          "0"
+                "outline"                                           "1"
+            }
+        }
+
+        "Crosshair: TF2Crosshairs | Size: 23 | Outline: On"
+        {
+            "1"
+            {
+                "name"                                              "BudhudCrosshairs"
+                "tall"                                              "23"
+                "antialias"                                         "1"
+                "additive"                                          "0"
+                "outline"                                           "1"
+            }
+        }
+
+        "Crosshair: TF2Crosshairs | Size: 24 | Outline: On"
+        {
+            "1"
+            {
+                "name"                                              "BudhudCrosshairs"
+                "tall"                                              "24"
+                "antialias"                                         "1"
+                "additive"                                          "0"
+                "outline"                                           "1"
+            }
+        }
+
+        "Crosshair: TF2Crosshairs | Size: 25 | Outline: On"
+        {
+            "1"
+            {
+                "name"                                              "BudhudCrosshairs"
+                "tall"                                              "25"
+                "antialias"                                         "1"
+                "additive"                                          "0"
+                "outline"                                           "1"
+            }
+        }
+
+        "Crosshair: TF2Crosshairs | Size: 26 | Outline: On"
+        {
+            "1"
+            {
+                "name"                                              "BudhudCrosshairs"
+                "tall"                                              "26"
+                "antialias"                                         "1"
+                "additive"                                          "0"
+                "outline"                                           "1"
+            }
+        }
+
+        "Crosshair: TF2Crosshairs | Size: 27 | Outline: On"
+        {
+            "1"
+            {
+                "name"                                              "BudhudCrosshairs"
+                "tall"                                              "27"
+                "antialias"                                         "1"
+                "additive"                                          "0"
+                "outline"                                           "1"
+            }
+        }
+
+        "Crosshair: TF2Crosshairs | Size: 28 | Outline: On"
+        {
+            "1"
+            {
+                "name"                                              "BudhudCrosshairs"
+                "tall"                                              "28"
+                "antialias"                                         "1"
+                "additive"                                          "0"
+                "outline"                                           "1"
+            }
+        }
+
+        "Crosshair: TF2Crosshairs | Size: 29 | Outline: On"
+        {
+            "1"
+            {
+                "name"                                              "BudhudCrosshairs"
+                "tall"                                              "29"
+                "antialias"                                         "1"
+                "additive"                                          "0"
+                "outline"                                           "1"
+            }
+        }
+
+        "Crosshair: TF2Crosshairs | Size: 30 | Outline: On"
+        {
+            "1"
+            {
+                "name"                                              "BudhudCrosshairs"
+                "tall"                                              "30"
+                "antialias"                                         "1"
+                "additive"                                          "0"
+                "outline"                                           "1"
+            }
+        }
 	}
 }

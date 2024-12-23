@@ -1,7 +1,7 @@
 event DamagedPlayer
 {
-	Animate KnucklesCrosses FgColor CrosshairDamage Linear 0.0 0.00001
-	Animate KnucklesCrosses FgColor Crosshair Linear 0.2 0.00001
+	Animate BudhudCrosshairs FgColor CrosshairDamage Linear 0.0 0.00001
+	Animate BudhudCrosshairs FgColor Crosshair Linear 0.2 0.00001
 }
 
 //Health Bonus Pulse
