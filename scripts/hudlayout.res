@@ -1,34 +1,67 @@
 "Resource/HudLayout.res"
 {	
 	//--------------------------------------------------------------
-	// KNUCKLESCROSSES
+	// HUD CROSSHAIR
 	//--------------------------------------------------------------
-	// Set visible and enabled to 1 to use. Change labelText to the
-	// corresponding crosshair in KnucklesCrosses.png. Change xpos
-	// and ypos values if not perfectly centered.
+	// - Set "enabled" and "visible" to "1" for preferred crosshair
+	// - Change "labelText" to the corresponding crosshair, as can
+	// 	 	be seen in the .png for your crosshair type
+	// - Adjust Size and Outline in "font". Note size ranges, and
+	//		be specific with upper-/lowercase
+	// - If crosshair is not centered properly, adjust "xpos" and
+	//		"ypos" (and, if necessary, "wide" and "tall") 
+	// - FOR HITMARKERS, go to resource/scripts/hudanimations_ahud.txt
+	//--------------------------------------------------------------
+
+	//--------------------------------------------------------------
+	// KnucklesCrosses
 	//--------------------------------------------------------------
 
 	KnucklesCrosses
 	{
-		"visible" 		"0"
-		"enabled" 		"0"
+		"enabled" 		"1"
+		"visible" 		"1"
 		
-		"labelText"		"a"
-		
-		"controlName"	"CExLabel"
-		"fieldName"	 	"KnucklesCrosses"
-		"zpos"			"0"
+		"labelText"		"b"
+		"fgcolor" 		"CrosshairColor" // edit in resource/scheme/colors.res
+		"font"			"KnucklesCrosses | Size: 10 | Outline: On"	// Size: 	10-50 (even numbers only)
+																	// Outline: "On" or "Off" 
 		"xpos" 		 	"c-25"
 		"ypos" 		 	"c-25"
+		"zpos"			"0"
 		"wide" 		 	"50"
 		"tall" 		 	"50"
-		
-		"font"			"size:30,outline:off"	// size: range 10-50
-												// outline: on or off
+
+		"controlName"	"CExLabel"
+		"fieldName"	 	"KnucklesCrosses"
 		
 		"textAlignment"	"center"
-		"fgcolor" 		"Crosshair"
 	}
+
+	//--------------------------------------------------------------
+	// BudhudCrosshairs
+	//--------------------------------------------------------------
+
+	BudhudCrosshairs
+	{
+        "enabled"		"0"
+        "visible" 		"0"
+
+        "labeltext" 	"~"
+        "fgcolor" 		"CrosshairColor" // edit in resource/scheme/colors.res
+        "font" 			"BudhudCrosshairs | Size: 16 | Outline: On" // size: 	10-30
+																	// outline:	"On" or "Off" 
+        "xpos" 			"cs-0.4999"
+        "ypos" 			"cs-0.4990"
+		"zpos" 			"0"
+        "wide" 			"f0"
+        "tall" 			"f0"
+
+        "controlname" 	"CExLabel"
+        "fieldname" 	"BudhudCrosshairs"
+
+        "textAlignment"	"center"
+    }
 	
 	//--------------------------------------------------------------
 

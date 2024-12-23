@@ -56,5 +56,10 @@ Scheme
 			"font" "resource/fonts/KnucklesCrosses.ttf"
 			"name" "KnucklesCrosses"
 		}
+		"11"
+		{
+            "font" "resource/fonts/crosshairs-unified.ttf"
+            "name" "TF2Crosshairs"
+        }
 	}
 }
