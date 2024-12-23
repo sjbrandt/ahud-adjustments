@@ -19,10 +19,10 @@
 
 	KnucklesCrosses
 	{
-		"enabled" 		"1"
-		"visible" 		"1"
+		"enabled" 		"0"
+		"visible" 		"0"
 		
-		"labelText"		"b"
+		"labelText"		"a"
 		"fgcolor" 		"CrosshairColor" // edit in resource/scheme/colors.res
 		"font"			"KnucklesCrosses | Size: 10 | Outline: On"	// Size: 	10-50 (even numbers only)
 																	// Outline: "On" or "Off" 
@@ -47,7 +47,7 @@
         "enabled"		"0"
         "visible" 		"0"
 
-        "labeltext" 	"~"
+        "labeltext" 	"a"
         "fgcolor" 		"CrosshairColor" // edit in resource/scheme/colors.res
         "font" 			"BudhudCrosshairs | Size: 16 | Outline: On" // size: 	10-30
 																	// outline:	"On" or "Off" 

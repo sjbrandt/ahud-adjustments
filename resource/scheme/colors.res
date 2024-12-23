@@ -7,7 +7,7 @@ Scheme
 		//---------------------------------------------
 		// Restart required for changes to occur
 
-		"CrosshairColor"		"0 255 0 255"
+		"CrosshairColor"		"255 255 255 255"
 		"CrosshairDamage"		"255 0 0 255"		// For no damage flash, set to the
 													// same value as Crosshair
 
