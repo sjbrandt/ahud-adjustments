@@ -1,9 +1,3 @@
-////////////////////////////////////////////////////////////////////////////////////////////////////
-// Hitmarkers
-// ============================================================================================== //
-// Under "event DanagedPlayer", un-comment (i.e. remove the "//" before) the lines corresponding
-// to your crosshair. Then comment out (i.e. add "//" before) the lines for unused crosshairs.
-////////////////////////////////////////////////////////////////////////////////////////////////////
 event DamagedPlayer
 {
     StopEvent            HitMarker            0.0
