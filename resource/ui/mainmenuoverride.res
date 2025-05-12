@@ -911,6 +911,10 @@
 		"border"		"ahudPanelBorder"
 		"bgcolor_override"	"HudBlack"
 
+		"pin_to_sibling"	"QuestLogButtonNew"
+		"pin_corner_to_sibling"	"PIN_CENTER_RIGHT"
+		"pin_to_sibling_corner"	"PIN_CENTER_LEFT"
+
 		"Notifications_CloseButton"
 		{
 			"ControlName"	"CExImageButton"
