@@ -1016,7 +1016,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"QuestLogButtonNew"
 		"xpos"			"0"
-		"ypos"			"10"
+		"ypos"			"16"
 		"zpos"			"1"
 		"wide"			"14"
 		"tall"			"14"
@@ -1368,6 +1368,32 @@
 		"proportionaltoparent"	"1"
 
 		"pin_to_sibling"	"MainMenuSideBG"
+		"pin_corner_to_sibling"	"PIN_CENTER_TOP"
+		"pin_to_sibling_corner"	"PIN_CENTER_TOP"
+
+		"fgcolor_override"	"ahudWhite"
+
+		"border_default"	"NoBorder"
+		"border_armed"		"NoBorder"
+		"paintbackground"	"0"
+	}
+
+	"adjustmentsLabel"
+	{
+		"ControlName"	"CExButton"
+		"fieldName"		"adjustmentsLabel"
+		"font"			"aRegular10"
+		"labelText"		"adjustments"
+		"textAlignment"	"east"
+		"xpos"			"0"
+		"ypos"			"-20"
+		"wide"			"115"
+		"tall"			"30"
+		"visible"		"1"
+		"enabled"		"1"
+		"proportionaltoparent"	"1"
+
+		"pin_to_sibling"	"ahudLabel"
 		"pin_corner_to_sibling"	"PIN_CENTER_TOP"
 		"pin_to_sibling_corner"	"PIN_CENTER_TOP"
 
