@@ -911,6 +911,10 @@
 		"border"		"ahudPanelBorder"
 		"bgcolor_override"	"HudBlack"
 
+		"pin_to_sibling"	"QuestLogButtonNew"
+		"pin_corner_to_sibling"	"PIN_CENTER_RIGHT"
+		"pin_to_sibling_corner"	"PIN_CENTER_LEFT"
+
 		"Notifications_CloseButton"
 		{
 			"ControlName"	"CExImageButton"
@@ -1012,7 +1016,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"QuestLogButtonNew"
 		"xpos"			"0"
-		"ypos"			"10"
+		"ypos"			"16"
 		"zpos"			"1"
 		"wide"			"14"
 		"tall"			"14"
@@ -1333,11 +1337,11 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"VersionLabel"
 		"font"			"aRegular8"
-		"labelText"		"v2020.1111"
+		"labelText"		"ahud adjustments v1.0.1"
 		"textAlignment"	"east"
-		"xpos"			"r52"
+		"xpos"			"r90"
 		"ypos"			"r13"
-		"wide"			"46"
+		"wide"			"86"
 		"tall"			"10"
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -1364,6 +1368,32 @@
 		"proportionaltoparent"	"1"
 
 		"pin_to_sibling"	"MainMenuSideBG"
+		"pin_corner_to_sibling"	"PIN_CENTER_TOP"
+		"pin_to_sibling_corner"	"PIN_CENTER_TOP"
+
+		"fgcolor_override"	"ahudWhite"
+
+		"border_default"	"NoBorder"
+		"border_armed"		"NoBorder"
+		"paintbackground"	"0"
+	}
+
+	"adjustmentsLabel"
+	{
+		"ControlName"	"CExButton"
+		"fieldName"		"adjustmentsLabel"
+		"font"			"aRegular10"
+		"labelText"		"adjustments"
+		"textAlignment"	"east"
+		"xpos"			"0"
+		"ypos"			"-20"
+		"wide"			"115"
+		"tall"			"30"
+		"visible"		"1"
+		"enabled"		"1"
+		"proportionaltoparent"	"1"
+
+		"pin_to_sibling"	"ahudLabel"
 		"pin_corner_to_sibling"	"PIN_CENTER_TOP"
 		"pin_to_sibling_corner"	"PIN_CENTER_TOP"
 
