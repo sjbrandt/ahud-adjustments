@@ -18,6 +18,7 @@ This is an ahud fork, meaning the project is copied from the [original ahud repo
   - In `scripts/hudlayout.res`, you can add or change a HUD crosshair
   - In this version, another pack of crosshairs is added, containing crosshairs from [budhud](https://github.com/rbjaxter/budhud)
   - Also slightly changed the format in which one changes the size and outline of the HUD crosshair, to a format which is similar to that in budhud.
+- Changed version number in bottom right of main menu to "ahud adjustments" followed by this fork's version number
 
 Below is the readme from the original ahud project by [n0kk](https://github.com/n0kk).
 
